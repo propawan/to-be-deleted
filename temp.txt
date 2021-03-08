@@ -1,1 +1,2 @@
 Text in main.
+Second line in main.
