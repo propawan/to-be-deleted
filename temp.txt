@@ -1,2 +1,3 @@
 Text in temp.
 one more line.
+Third line in temp.
