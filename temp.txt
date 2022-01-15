@@ -1,7 +1,7 @@
 Text in main.
 Second line in main.
 Text in temp.
-one more line in temp.
+Second line in temp.
 Third line in temp.
 Fourth line.
 Fifth line.
